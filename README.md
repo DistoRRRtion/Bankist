@@ -1,5 +1,5 @@
 
-#  Bankist is a online banking app. 
+#  Bankist is a online banking app
 Its main features:
 - Log-in
 - Transfer To Other Accounts
