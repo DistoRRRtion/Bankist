@@ -11,6 +11,6 @@ Its main features:
 
 Log-in credentials:
 Account	            UserName	        Password
-Vlad Grad	        vg                  1111
-Elon Musk           em                  2222
-Bill Gates          bg                  3333
+- Vlad Grad	        vg                  1111
+- Elon Musk           em                  2222
+- Bill Gates          bg                  3333
