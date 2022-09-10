@@ -1,4 +1,4 @@
-<!-- prettier-ignore -->
+
 Bankist is a online banking app. 
 Its main features:
     - Log-in
@@ -9,7 +9,6 @@ Its main features:
     - Sort Movements
     - Internationalize Date & Currency
 
-<!-- prettier-ignore -->
 Log-in credentials:
 Account	            UserName	        Password
 Vlad Grad	        vg                  1111
