@@ -2,6 +2,9 @@
 
 ![bankist app](https://user-images.githubusercontent.com/99020542/189517183-a19ace79-e977-4679-a0ef-7782119e5573.gif)
 
+## -> [Click to view](https://distorrrtion.github.io/Bankist/)
+___
+
 ## Its main features:
     - Log-in
     - Transfer To Other Accounts
@@ -13,12 +16,10 @@
 ___
 
 ## Log-in credentials:
-Account: **Vlad Grad**      Account: **Elon Musk**      Account: **Bill Gates**  
-+ UserName: vg              + UserName: em              + UserName: bg  
-+ Password: 1111            + Password: 2222            + Password: 3333
 
-
-
+Account: **Vlad Grad**
++ UserName: vg
++ Password: 1111
 
 Account: **Elon Musk**  
 + UserName: em  
@@ -27,8 +28,6 @@ Account: **Elon Musk**
 Account: **Bill Gates**  
 + UserName: bg  
 + Password: 3333
-___
-## -> [Click to view](https://distorrrtion.github.io/Bankist/)
 ___
 
 ## Technologies used:
