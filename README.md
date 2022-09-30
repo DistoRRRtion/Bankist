@@ -6,13 +6,13 @@
 ___
 
 ## Its main features:
-    - Log-in
-    - Transfer To Other Accounts
-    - Request Loan
-    - Delete Account
-    - Log-out Timer
-    - Sort Movements
-    - Internationalize Date & Currency
+- Log-in
+- Transfer To Other Accounts
+- Request Loan
+- Delete Account
+- Log-out Timer
+- Sort Movements
+- Internationalize Date & Currency
 ___
 
 ## Log-in credentials:
