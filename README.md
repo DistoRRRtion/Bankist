@@ -17,16 +17,10 @@ ___
 
 ## Log-in credentials:
 
-Account: **Vlad Grad**
-+ UserName: vg
-+ Password: 1111
-
-Account: **Elon Musk**  
-+ UserName: em  
-+ Password: 2222  
-
-Account: **Bill Gates**  
-+ UserName: bg  
-+ Password: 3333
+| Account     | UserName | Password |
+| ------------| -------- | -------- |
+| Vlad Grad   | `vg`     | `1111`   |
+| Elon Musk   | `em`     | `2222`   |
+| Bill Gates  | `bg`     | `3333`   |
 ___
 
