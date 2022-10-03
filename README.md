@@ -5,6 +5,15 @@
 ## -> [Click to view](https://distorrrtion.github.io/Bankist/)
 ___
 
+## Log-in credentials:
+
+| Account     | UserName | Password |
+| ------------| -------- | -------- |
+| Vlad Grad   | `vg`     | `1111`   |
+| Elon Musk   | `em`     | `2222`   |
+| Bill Gates  | `bg`     | `3333`   |
+___
+
 ## Its main features:
 - Log-in
 - Transfer To Other Accounts
@@ -15,12 +24,4 @@ ___
 - Internationalize Date & Currency
 ___
 
-## Log-in credentials:
-
-| Account     | UserName | Password |
-| ------------| -------- | -------- |
-| Vlad Grad   | `vg`     | `1111`   |
-| Elon Musk   | `em`     | `2222`   |
-| Bill Gates  | `bg`     | `3333`   |
-___
 
