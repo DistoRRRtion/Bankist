@@ -2,7 +2,7 @@
 
 ![bankist app](https://user-images.githubusercontent.com/99020542/189517183-a19ace79-e977-4679-a0ef-7782119e5573.gif)
 
-## -> [Click to view](https://distorrrtion.github.io/Bankist/)
+## -> [Click to view]( https://distorrrtion.github.io/Bankist-App/)
 ___
 
 ## Log-in credentials:
